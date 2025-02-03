@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Use all rewriting stuff from zimscraperlib
 - Remove most HTML / CSS / JS rewriting logic which is now part of zimscraperlib 5
 - Fix wombat setup settings (especially `isSW`) (#293)
+- Fork cdxj_indexer codebase (#428)
 
 ### Fixed
 
